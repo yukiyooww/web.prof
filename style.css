@@ -9,7 +9,7 @@
 }
 
 body{
-    background-color: #e7cd9c;
+    background-color: #74716c;
 }
 
 /* NAVIGATION BAR */
@@ -21,7 +21,7 @@ nav{
 }
 
 .navigation-bar{
-    background-color: #429475;
+    background-color: #434444;
     padding: 5px;
     margin: 0;
     height: 70px;
@@ -56,16 +56,16 @@ li{
 }
 
 .nav-list a:hover{
-    color: #f1e575;
-    border-top: 6px solid #f1e575;
-    border-bottom: 6px solid #f1e575;
+    color: #b83232;
+    border-top: 6px solid #b83232;
+    border-bottom: 6px solid #b83232;
     animation-delay: 3s;
     border-radius: 5px;
     cursor: pointer;
 }
 
 .nav-list a{
-    color: #811010;
+    color: #b83232;
     text-decoration-line: none;
     padding: 2px;
     border-radius: 4px;
@@ -122,7 +122,7 @@ li{
     margin-left: auto;
     text-align: center;
     text-decoration: none;
-    color: #326613;
+    color: #b83232;
 }
 
 .typewriter{
@@ -133,9 +133,9 @@ li{
     content: '|';
     position: absolute;
     right: 0;
-    color:#2c1b8f;
+    color:#b83232;
     width: 100%;
-    background-color: #25c4aa;
+    background-color: #b83232;
     animation: typing 2.5s steps(30) alternate infinite;
 }
 
@@ -167,13 +167,13 @@ li{
 .about-statement p{
     margin-left: 100px;
     font-size: 45px;
-    color: #a497d1;
+    color: #b83232;
     font-style: italic;
 }
 
 .vision-statement h3{
     margin: 15px;
-    color: #b8b3e9;
+    color: #b83232;
 }
 
 .vision-statement p{
@@ -182,7 +182,7 @@ li{
 
 .mission-statement h3{
     margin: 15px;
-    color: #bcb3e5;
+    color: rgb(170, 48, 48);
 }
 
 .mission-statement p{
@@ -191,7 +191,7 @@ li{
 
 .values-statement h3{
     margin: 15px;
-    color: #bcb2e4;
+    color: #b83232;
 }
 
 .values-statement p{
@@ -222,7 +222,7 @@ li{
 }
 
 .skill-quote1 q{
-    color: #5ee2a5;
+    color: #b83232;
     font-size: 40px;
     display: flex;
     justify-content: flex-end;
@@ -235,7 +235,7 @@ li{
 }
 
 .skill-quote2 q{
-    color: #5ee2a5;
+    color: #b83232;
     font-size: 40px;
     display: flex;
     justify-content: flex-start;
@@ -278,21 +278,21 @@ li{
 fieldset{
     text-align: center;
     margin: auto;
-    border-color: #5ee2a5;
+    border-color: #b83232;
     width: 1050px;
     border-style: double;
     border-width: 5px;
 }
 
 legend{
-    color: #5ee2a5;
+    color: #b83232;
     font-size: 30px;
     text-align: left;
 }
 
 /* FOOTER */
 .main-footer{
-    background-color: #5ee2a5;
+    background-color: #4d0e0e;
     height: 60px;
     padding: 0px;
     margin: 0;
